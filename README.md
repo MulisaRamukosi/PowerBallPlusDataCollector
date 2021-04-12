@@ -28,3 +28,6 @@ Application Configurations
 Select Apply then Ok
 select Run -> Run name(name that was set in the application configuration)
 ```
+
+### Note  
+The date range for data to be collected can be set in the Main.java, the format of the date must be dd/MM/yyy
