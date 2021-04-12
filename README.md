@@ -27,7 +27,10 @@ Application Configurations
 
 Select Apply then Ok
 select Run -> Run name(name that was set in the application configuration)
-The program will then open https://www.nationallottery.co.za/powerball-plus-history, set the start and end date, select search, and scraps the data and store in a csv file called PowerBallPlusResults
+The program will then open https://www.nationallottery.co.za/powerball-plus-history, 
+set the start and end date, click the search button, and starts scraping the data from 
+the page while paging to the next page if the results do not fit in one page and store 
+in a csv file called PowerBallPlusResults
 ```
 
 ### Note  
