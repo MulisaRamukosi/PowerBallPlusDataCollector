@@ -8,9 +8,12 @@ Collects powerball plus historical results by using a robot that automates the n
 ### How to run the project
 To run the project, a google chrome driver is required, it can be downloaded here https://chromedriver.chromium.org/downloads, select the version that matches with the version of your Google chrome browser and download the chrome drive for your operating system.
 Based on the operating system your using:
-- Linux  
-download the chrome drive and place it in the driver folder of the project (make sure the name of the chrome drive file is "chromedriver")
-- Windows  
+- ###Linux  
+
+download the chrome drive and place it in the driver folder of the project (make sure the name of the chrome drive file is "chromedriver")  
+
+- ###Windows  
+  
 download the chrome drive and place it in the driver folder of the project (make sure the name of the chrome drive file is "chromedriver.exe")
 Then head over to robots folder and open BaseRobot and make sure the System.property value is set to "driver/chromedriver.exe"
 
